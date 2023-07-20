@@ -88,7 +88,7 @@ The remaining 81% is influenced by unaccounted factors. Therefore, caution is ad
 
 Lastly, we have merged all the insightful graphs to craft a user-friendly dashboard specifically designed for the Secretary of Education. This simplified dashboard encapsulates the findings, providing a comprehensive overview of the state of the school system for the school board.
 
-Feel free to explore and interact with the dashboard [here](https://www.linkedin.com/pulse/building-solid-foundation-massachusetts-education-mitchell-best/).
+Feel free to explore and interact with the dashboard [here](https://public.tableau.com/app/profile/shekela/viz/TheEducationProject_16887621019540/Dashboard2).
 
 <img src="images/Dashboard.png?raw=true"/>
 
