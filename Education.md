@@ -4,7 +4,9 @@ Imagine being told that you have won a magnificent mansion nestled in the heart 
 
 Right now, you may be envisioning yourself lounging by the beach, sipping a refreshing piña colada...
 
-<img src="images/beach.gif?raw=true"/>
+<div style="text-align: center;">
+  <img src="images/beach.gif?raw=true" alt="Beach Image" />
+</div>
 
 But hold on because the best part is yet to come! Brace yourself: the house is situated right on the beach!
 
