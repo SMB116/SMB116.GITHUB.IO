@@ -1,4 +1,4 @@
-# DoorDash Marketing Analysis
+# Who's Dining with DoorDash?
 
 ## Exploring the Demographics of DoorDash Users
 
@@ -27,7 +27,7 @@ The dataset spans the years 2014 to 2016, allowing for an analysis of how demogr
 
 # Analyzing the Dash: Uncovering DoorDash's Demographic Dynamics
 
-## Love and Orders: Are DoorDash Customers Booed Up?
+### Love and Orders: Are DoorDash Customers Booed Up?
 
 Let us begin our analysis by exploring into the current relationship statuses of DoorDash customers.
 
@@ -35,7 +35,7 @@ I wasn't sure where the demographic breakdown would lie for relationship status 
 
 Or so I thought... The data revealed a different story.
 
-![No alt text provided for this image](image_url)
+<img src="images/Customers' Relationship Status .jpg?raw=true"/>
 
 Shockingly, 65% of the customers were "booed" up; this includes individuals who are married as well as those who are in domestic partnerships or cohabiting with a partner without the legal marriage status.
 
@@ -49,13 +49,13 @@ Certainly! Here's the provided content formatted in Markdown:
 
 ---
 
-# Now, Is It a Family Feast?
+### Now, Is It a Family Feast?
 
 My initial hypothesis was that, of course, families are always on a "dash"! Picking up the kids from soccer, what about dance rehearsal? School? Don't forget that doctor's appointment! Why wouldn't DoorDash be a great option?
 
 However, the data revealed the opposite:
 
-![No alt text provided for this image](image_url)
+<img src="images/Dependent Children .jpg?raw=true"/>
 
 According to the data, the more dependent children you have, the less likely you are to be a DoorDash customer. This was shocking at first, but then I thought about it—more kids, more meals needed, and more expensive the order.
 
@@ -63,7 +63,7 @@ There's always room for improvement! Putting more emphasis on families can be a 
 
 - Offer Family-Friendly Discounts and Specials! Providing affordable options and incentives for busy parents who need meal solutions without breaks. Make DoorDash the go-to answer for families' mealtime challenges.
 
-# Age is just a number, but does it shape our clientele?
+### Age is just a number, but does it shape our clientele?
 
 Now that we have discovered that couples make up the majority of our customer base, with fewer customers having children living at home, let's explore the age dynamics.
 
@@ -73,7 +73,7 @@ Each demographic has its rightful place, and each one needs to eat.
 
 Let's dive into the observations we have acquired from the data:
 
-![No alt text provided for this image](image_url)
+<img src="images/Age Categories.jpg?raw=true"/>
 
 The data reveals that the midlife clientele is thriving, making up 38% of DoorDash customers. This is an interesting finding that makes sense. Yet, it is fairly normal to have relationship stability and fewer kids at home around that age.
 
@@ -81,7 +81,7 @@ DoorDash should continue to focus on the midlife market by implementing targeted
 
 - This can be achieved through initiatives such as offering personalized promotions, providing convenient meal options tailored for busy professionals, and highlighting the health benefits of nutritious meals for individuals in this age group.
 
-# Speaking the Language of Money: Who's Buying the Food?
+### Speaking the Language of Money: Who's Buying the Food?
 
 Now, let's compare the financial aspect of our clientele.
 
@@ -89,7 +89,7 @@ Given that our customers are in committed relationships, have fewer children, an
 
 But let's look into the data to validate this assumption:
 
-![No alt text provided for this image](image_url)
+<img src="images/Income vs Total Spent.jpg?raw=true"/>
 
 There is a positive correlation between income and total spent, as indicated by the r-squared score of 0.68. This means that approximately 68% of the variation in "Total Spent" can be explained by changes in income.
 
