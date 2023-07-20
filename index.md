@@ -35,6 +35,25 @@ During my virtual internship at PwC Switzerland, I embraced an exciting challeng
 ---
 As a proud new owner of a beagle puppy, I took on a Python project to ensure his healthy growth. With concerns about his weight, I developed a calculator to predict his adult weight based on his current weight and age. Using my programming skills, I created a command-line program that employed a fundamental formula for this purpose. This project not only helped me monitor my puppy's growth but also allowed me to apply programming to a real-life situation. I take pride in having built a practical tool that nurtures my beloved beagle's well-being and helps me make informed decisions about his health and development.
 
+---
+<div style="text-align: center; font-size: 16px;">
+  <p>💬 Contact Me 📩</p>
+  <p>Looking to collaborate on an exciting project or discuss data-driven solutions? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊💡</p>
+  <p>Whether it's crunching numbers, visualizing trends, or finding innovative solutions, count me in! 🚀 Let's team up and unleash the power of data to fuel success. 🚀🌟</p>
+  <p>
+    📧 <a href="mailto:smitchellbest@gmail.com">Email Me</a> &nbsp; | &nbsp;
+    💼 <a href="https://www.linkedin.com/shekela-mitchell-best/">LinkedIn</a> &nbsp; | &nbsp;
+    🌐 <a href="https://www.yourportfolio.com/">Portfolio</a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
 !-- #### [DoorDash Marketing Analysis]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/whos-dining-doordash-shekela-mitchell-best/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In the fast-paced world of food delivery services, DoorDash has emerged as a leader, transforming how we satisfy our cravings. Intrigued by its success, I embarked on a marketing analytics project to uncover DoorDash's customer dynamics and demographic insights. Using Excel's powerful functions, dynamic graphs, and pivot tables, I delved into a comprehensive dataset to analyze demographic attributes and gain a deeper understanding of DoorDash's customer base. By harnessing the analytical capabilities of Excel, I aimed to provide valuable insights that would guide strategic decision-making, optimize marketing strategies, and ultimately enhance DoorDash's success in the competitive food delivery market.
