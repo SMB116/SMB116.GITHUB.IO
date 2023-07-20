@@ -29,7 +29,7 @@ During my virtual internship at PwC Switzerland, I embraced an exciting challeng
 
 ---
 
-#### [Puppy Adult Weight Calculator](/Puppy%20Adult%20Weight%20Calculator%20(Interactive))
+#### [Puppy Adult Weight Calculator](/pupcal)
 <img src="images/AdultPupCal.gif?raw=true"/>
 
 ---
@@ -38,7 +38,7 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 ---
 <div style="text-align: center; font-size: 16px;">
   <p>💬 Contact Me 📩</p>
-  <p>Looking to collaborate on an exciting project or discuss data-related opportunities? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊💡</p>
+  <p>Looking to collaborate on an exciting project or discuss data-related opportunities? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊</p>
   
     📧 <a href="mailto:smitchellbest@gmail.com">Email Me</a> &nbsp; | &nbsp;
     💼 <a href="https://www.linkedin.com/in/shekela-mitchell-best/">LinkedIn</a> &nbsp; | &nbsp;
