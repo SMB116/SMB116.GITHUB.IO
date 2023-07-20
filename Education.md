@@ -20,7 +20,7 @@ U.S. Senator Elizabeth Warren of Massachusetts wholeheartedly agrees with this s
 
 Therefore, it came as no surprise when the Secretary of Education expressed a desire to harness the power of data to find answers to a few crucial questions.
 
-# Let's dive into the key questions that fuel our quest for knowledge:
+## Let's dive into the key questions that fuel our quest for knowledge:
 
 - Elementary schools: What are the top math schools in the states? Specifically grade 4 math.
 - High schools: What schools are struggling the most?
@@ -40,7 +40,7 @@ Although we understand that education is influenced by many factors, data provid
 
 The data used in this analysis is sourced directly from the Massachusetts Department of Education's official website for the year 2017. (If you’re curious, you can access the data [here]([https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data])
 
-## Nurturing the Foundation: The Crucial Role of 4th Grade Math in Building Educational Success
+### Nurturing the Foundation: The Crucial Role of 4th Grade Math in Building Educational Success
 
 The Secretary of Education firmly believes that 4th grade math serves as the cornerstone of a solid foundation for students' future success.
 
@@ -58,7 +58,7 @@ We have generated a line graph to depict the districts that surpass the desired 
 
 Upon conducting further investigation and graphing the data, we observe that the majority of districts lie above this threshold, about 75%. Notably, districts like Hingham and Winchester stand out, boasting math scores exceeding 90%.
 
-## In Dire Need: Unsolid Foundation - Struggling Schools
+### In Dire Need: Unsolid Foundation - Struggling Schools
 
 A high school diploma sets the minimum benchmark for individuals entering the real world, providing a crucial foundation for their journey ahead.
 
@@ -68,7 +68,7 @@ Recognizing the importance of this milestone, the Secretary of Education was det
 
 The disheartening reality emerges as the bottom ten schools reveal a graduation rate that falls below the critical threshold of 20%. It is essential to take immediate action to support these schools and address the challenges they face.
 
-## The Blueprint: Understanding How Class Size Shapes College Attendance
+### The Blueprint: Understanding How Class Size Shapes College Attendance
 
 The Secretary of Education is also exploring strategies to increase college attendance and is considering the possibility of constructing more schools to reduce average class sizes, aiming to boost the percentage of students attending college.
 
@@ -84,7 +84,7 @@ However, it's crucial to note that the weak relationship between class size and 
 
 The remaining 81% is influenced by unaccounted factors. Therefore, caution is advised in advocating for new schools solely to reduce class size. A more comprehensive investigation is needed to identify and address additional factors that significantly impact college attendance rates.
 
-## The Dashboard
+### The Dashboard
 
 Lastly, we have merged all the insightful graphs to craft a user-friendly dashboard specifically designed for the Secretary of Education. This simplified dashboard encapsulates the findings, providing a comprehensive overview of the state of the school system for the school board.
 
