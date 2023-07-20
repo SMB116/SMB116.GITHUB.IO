@@ -21,9 +21,11 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 In this Tableau project, I bring this quote to life by diving into the Massachusetts education system. Through captivating data analysis and visualization, I uncover insights on top-performing elementary math schools, struggling high schools, and the impact of class size on college attendance. It's a journey that reveals both impressive achievements and pressing concerns, highlighting the transformative power of education.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project](/https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+
+---
+During my virtual internship at PwC Switzerland, I took on an exciting challenge from telecom company PayNow. They needed a dashboard to gain insights into customer and agent behavior, focusing on subtopics like topic, calls per hour, answered calls, calls per month, speed of calls, resolved problem calls, and average satisfaction rating. I meticulously processed and cleaned their data using DAX and Excel, ensuring accuracy for dashboard development. Using Power BI, I crafted a comprehensive dashboard that revealed long-term trends and empowered the client to make data-driven decisions, enhancing efficiency and profitability. This project honed my data processing and visualization skills, providing valuable insights to a real-world client. 
 
 ---
 !-- #### [DoorDash Marketing Analysis]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/whos-dining-doordash-shekela-mitchell-best/)
