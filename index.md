@@ -42,7 +42,7 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
   
     📧 <a href="mailto:smitchellbest@gmail.com">Email Me</a> &nbsp; | &nbsp;
     💼 <a href="https://www.linkedin.com/shekela-mitchell-best/">LinkedIn</a> &nbsp; | &nbsp;
-    🌐 <a href="https://www.yourportfolio.com/">Portfolio</a>
+    🌐 <a href="https://smitchellbest.wixsite.com/portfolio">Portfolio</a>
   </p>
 </div>
 
