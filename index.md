@@ -38,14 +38,15 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 ---
 <div style="text-align: center; font-size: 16px;">
   <p>💬 Contact Me 📩</p>
-  <p>Looking to collaborate on an exciting project or discuss data-driven solutions? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊💡</p>
-  <p>Whether it's crunching numbers, visualizing trends, or finding innovative solutions, count me in! 🚀 Let's team up and unleash the power of data to fuel success. 🚀🌟</p>
-  <p>
+  <p>Looking to collaborate on an exciting project or discuss data-related opportunities? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊💡</p>
+  
     📧 <a href="mailto:smitchellbest@gmail.com">Email Me</a> &nbsp; | &nbsp;
     💼 <a href="https://www.linkedin.com/shekela-mitchell-best/">LinkedIn</a> &nbsp; | &nbsp;
     🌐 <a href="https://www.yourportfolio.com/">Portfolio</a>
   </p>
 </div>
+
+
 
 
 
@@ -77,22 +78,23 @@ What are the top math schools in the state?
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
-
-  <style>
-.go-up-btn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
+<style>
+  .go-top-btn {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
 </style>
 
-<a href="#top" class="go-up-btn">Go Up</a>
+<a href="#top" class="go-top-btn">Go Back to Top</a>
+
 
 
 ---
