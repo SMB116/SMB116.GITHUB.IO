@@ -36,7 +36,7 @@ Although we understand that education is influenced by many factors, data provid
 - The bottom ten high schools had a graduation rate below 20%, which is concerning. It's important to take immediate action and implement strategies to improve this situation.
 - While there seems to be a connection between class size and college admission, the R-squared score of 19% indicates that the relationship is not very strong. This means we need to investigate further to better understand how these two factors are related.
 
-The data used in this analysis is sourced directly from the Massachusetts Department of Education's official website for the year 2017. (If you’re curious, you can access the data [here](data_link).)
+The data used in this analysis is sourced directly from the Massachusetts Department of Education's official website for the year 2017. (If you’re curious, you can access the data [here]([https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data])
 
 ## Nurturing the Foundation: The Crucial Role of 4th Grade Math in Building Educational Success
 
@@ -72,7 +72,7 @@ The Secretary of Education is also exploring strategies to increase college atte
 
 Based on the available data, let's analyze whether recommending the construction of more schools for this purpose would be advisable.
 
-<img src="images/% College attends by size.jpg?raw=true"/>
+<img src="images/College.jpg?raw=true"/>
 
 The scatter plot reveals a clear pattern: as class size increases, there is a corresponding rise in college attendance percentage.
 
@@ -86,9 +86,9 @@ The remaining 81% is influenced by unaccounted factors. Therefore, caution is ad
 
 Lastly, we have merged all the insightful graphs to craft a user-friendly dashboard specifically designed for the Secretary of Education. This simplified dashboard encapsulates the findings, providing a comprehensive overview of the state of the school system for the school board.
 
-Feel free to explore and interact with the dashboard [here](dashboard_link).
+Feel free to explore and interact with the dashboard [here](https://www.linkedin.com/pulse/building-solid-foundation-massachusetts-education-mitchell-best/).
 
-![No alt text provided for this image](image_url)
+<img src="images/Dashboard.png?raw=true"/>
 
 ## Recap of Key Findings:
 
