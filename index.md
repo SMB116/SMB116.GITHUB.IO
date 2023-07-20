@@ -29,7 +29,7 @@ During my virtual internship at PwC Switzerland, I embraced an exciting challeng
 
 ---
 
-#### [Puppy Adult Weight Calculator ](/Education)
+#### [Puppy Adult Weight Calculator](/Puppy%20Adult%20Weight%20Calculator%20(Interactive).ipynb)
 <img src="images/AdultPupCal.gif?raw=true"/>
 
 ---
