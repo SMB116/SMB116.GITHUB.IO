@@ -22,7 +22,7 @@ In this Tableau project, I bring this quote to life by diving into the Massachus
 
 ---
 [Call Center Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/phonenow.png?raw=true"/>
 
 ---
 During my virtual internship at PwC Switzerland, I embraced an exciting challenge from telecom company PayNow. They needed a dashboard to monitor agents' performance and gain insights into customer behavior. The dashboard focused on crucial subtopics, including answered/unanswered calls, calls per hour/month, speed to answer calls, resolved/unsolved call numbers, topics discussed in calls, and average satisfaction rating. I meticulously processed and cleaned their data with Excel, DAX and Power Query, ensuring accuracy for dashboard development. Leveraging Power BI, I crafted a comprehensive dashboard revealing long-term trends, enabling data-driven decisions to enhance efficiency and profitability. This project honed my data processing and visualization skills, delivering valuable insights to a real-world client. 
