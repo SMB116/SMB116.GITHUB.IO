@@ -38,7 +38,7 @@ Although we understand that education is influenced by many factors, data provid
 - The bottom ten high schools had a graduation rate below 20%, which is concerning. It's important to take immediate action and implement strategies to improve this situation.
 - While there seems to be a connection between class size and college admission, the R-squared score of 19% indicates that the relationship is not very strong. This means we need to investigate further to better understand how these two factors are related.
 
-The data used in this analysis is sourced directly from the Massachusetts Department of Education's official website for the year 2017. (If you’re curious, you can access the data [here]([https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data])
+The data used in this analysis is sourced directly from the Massachusetts Department of Education's official website for the year 2017. (If you’re curious, you can access the data [here](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data)
 
 ### Nurturing the Foundation: The Crucial Role of 4th Grade Math in Building Educational Success
 
