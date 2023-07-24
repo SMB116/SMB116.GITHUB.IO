@@ -21,6 +21,14 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 In this Tableau project, I bring this quote to life by diving into the Massachusetts education system. Through captivating data analysis and visualization, I uncover insights on top-performing elementary math schools, struggling high schools, and the impact of class size on college attendance. It's a journey that reveals both impressive achievements and pressing concerns, highlighting the transformative power of education.
 
 ---
+
+#### [Dominica's Financial Journey Funds, Debts, and Resilience ](/worldbank)
+<img src="images/Dominica's Financial Journey Funds, Debts, and Resilience Projects.png?raw=true"/>
+
+---
+This SQL project is a personal exploration of Dominica's relationship with the World Bank using live data. With a strong desire to visit the island, I feel a special connection knowing that my dad's mother is originally from Dominica. Researching Dominica has allowed me to delve deeper into my roots, making the connection to my dad's native heritage even more profound. Throughout the research, I explored the number of transactions, the total amount of money received, the funds repaid, the current debt owed, and identified the most expensive projects, uncovering their focus and significance. Despite not having the chance to visit together, I dedicate this project to him, holding his memory close to my heart. 
+
+---
 #### [Call Center Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 <img src="images/phonenow.png?raw=true"/>
 
