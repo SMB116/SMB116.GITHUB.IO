@@ -38,7 +38,7 @@ SELECT | FROM | WHERE | DISTINCT | AS | GROUP BY | MAX | ORDER BY | LIMIT
 
 To kickstart our investigation into Dominica, I wanted to see how many transactions the World Bank had with Dominica to determine if there was enough data for evaluation.
 
-![Transaction Tally](image_link)
+<img src="images/Transactions.jpg?raw=true"/>
 
 By utilizing the `COUNT` function and filtering the data to include only transactions related to Dominica, it was revealed that there were 2,730 transactions. It emphasizes that there is a substantial amount of data available for a thorough assessment of the country's financial dealings and development projects with the institution.
 
@@ -46,7 +46,7 @@ By utilizing the `COUNT` function and filtering the data to include only transac
 
 Next, I wanted to determine the amount of money that was approved and committed to action by the World Bank. Using the `SUM` function, I was able to combine all the amounts together, regardless of their status.
 
-![Receipts and Repayments](image_link)
+<img src="images/Given and Repaid.jpg?raw=true"/>
 
 The data reveals that $17,205,735,200 USD was extended to Dominica from the World Bank. That's a lot of money! It surpasses my expectations, but considering Dominica's vulnerability to natural disasters due to its location, it's understandable that they would receive such a significant amount.
 
@@ -56,7 +56,7 @@ Seeing such a large number had me curious about how much the country had paid ba
 
 It made me wonder, how much do they owe currently? The dataset mentioned that money is owed to the IDA, and upon further research, I discovered that the IDA stands for the International Development Association. The International Development Association (IDA) is an arm of the World Bank Group that provides financial support and concessional loans to the world's poorest countries, allowing them to undertake development projects and initiatives to reduce poverty and promote economic growth.
 
-![Debt in Focus](image_link)
+<img src="images/debts.jpg?raw=true"/>
 
 With a straightforward SQL query, I discovered that they owe the IDA $645,143,805.62 USD. The current owed amount, approximately 3.75% of the initial funding received ($17 billion), indicates a relatively low level of debt in proportion to the total amount provided by the IDA.
 
@@ -66,11 +66,15 @@ Curiously, I wanted to know the highest owed debt. Using the `MAX` function, I d
 
 What could a country need $30 million dollars for? This led me to investigate and find out the details of the project.
 
-![Project Expenses](image_link)
+<img src="images/Three top projects.jpg?raw=true"/>
 
 Upon investigation, it became apparent that the top two highest cost projects for the country were all related to COVID-19, which was understandable given the pandemic's widespread effects. Both the Second COVID-19 Response & Recovery Program and the First COVID-19 Response & Recovery Program in Dominica have common goals. They both want to save lives, protect jobs, and preserve livelihoods during the pandemic. Additionally, they aim to strengthen fiscal policies for a resilient recovery. They're all about making the country stronger and better equipped to handle future challenges.
 
-The third project, Third Phase Disaster Vulnerability Reduction Adaptable Program Loan, aimed to reduce vulnerability to natural hazards and climate change impacts in Dominica, which is especially crucial due to its hurricane-prone location in the Caribbean. Approved in 2014 and ending in 2020, the project focused on investing in resilient infrastructure and improving hazard data collection and monitoring systems. However, it faced challenges after Hurricane Maria struck in 2017, prompting adjustments to prioritize post-disaster recovery and rebuilding resilient infrastructure. Despite this setback, the project continued to strengthen Dominica's resilience against natural disasters and climate change impacts.
+The third project, Third Phase Disaster Vulnerability Reduction Adaptable Program Loan, aimed to reduce vulnerability to natural hazards and climate change impacts in Dominica, which is especially crucial due to its hurricane-prone location in the Caribbean. Approved in 2014 and ending in 2020, the project focused on investing in resilient infrastructure and improving hazard data collection and monitoring systems. 
+
+<img src="images/Graph.jpg?raw=true"/>
+
+However, it faced challenges after Hurricane Maria struck in 2017, prompting adjustments to prioritize post-disaster recovery and rebuilding resilient infrastructure. Despite this setback, the project continued to strengthen Dominica's resilience against natural disasters and climate change impacts.
 
 ## Recap of Findings:
 
