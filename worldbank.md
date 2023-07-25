@@ -13,7 +13,7 @@ To explore Dominica's economic development and financial progress, it is best to
 5. What is the maximum amount owed by Dominica?
 6. What are the top three projects owed by Dominica?
 
-I downloaded the live dataset from the World Bank website to obtain a present-day picture of Dominica's relationship with the World Bank. (You can access and download the dataset [here](link_to_dataset), as it updates frequently.) The dataset I used was last uploaded on July 10, 2023.
+I downloaded the live dataset from the World Bank website to obtain a present-day picture of Dominica's relationship with the World Bank. (You can access and download the dataset [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx), as it updates frequently.) The dataset I used was last uploaded on July 10, 2023.
 
 Given that the dataset contained 1.19 million rows and 30 columns of data, I decided to use SQL to answer the inquiry questions. For this project, I used the website [CSVFiddle.io](https://csvfiddle.io), an online platform for working with CSV files. I utilized this tool to perform SQL queries on CSV data in a user-friendly and interactive environment. The platform allowed me to upload, edit, and manipulate CSV data directly in the browser. With real-time previews, I could visualize the impact of my SQL queries on the data and explore the results efficiently. This made it convenient to interact with and analyze CSV data without the need for complex setups or installations.
 
