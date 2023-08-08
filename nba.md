@@ -2,7 +2,13 @@ Being a Canadian basketball fan can be tough, as we only have one home team to c
 
 Although we used to have two, the Vancouver Grizzlies are no longer with us – I won't delve into the details of how they were lost. 
 
-As a Canadian, I can't say I'm overly patriotic when it comes to basketball; I've always been a Lakers fan. However, when the Toronto Raptors won the 2019 NBA championship, I couldn't help but root for them. It was a moment of pride for all Canadians. If you weren't feeling like Drake during that whole playoff run, I don't know what you were doing.
+As a Canadian, I can't say I'm overly patriotic when it comes to basketball; I've always been a Lakers fan. However, when the Toronto Raptors won the 2019 NBA championship, I couldn't help but root for them. It was a moment of pride for all Canadians. 
+
+If you weren't feeling like Drake during that whole playoff run, I don't know what you were doing.
+
+<div style="text-align: center;">
+<img src="images/Drake Gif.gif?raw=true"/>
+</div>
 
 We've had chances to win in the past, with legends like Vince Carter and Tracy McGrady, but we always fell short. Playing in Canada isn't the most attractive option for players, considering the cold weather and Canadian taxes, eh? However, when we acquired Kawhi Leonard and won the championship, it was something special for the entire country.
 
