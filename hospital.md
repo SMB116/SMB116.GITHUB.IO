@@ -2,6 +2,10 @@
 
 Where is the place where tears of joy are formed when the first sounds of life are taken, and tears of grief flow when the final breath is drawn?
 
+<div style="text-align: center;">
+<img src="images/thinking.gif?raw=true"/>
+</div>
+
 That's right—the hospital.
 
 Regardless of your feelings, a hospital is what is needed in society, serving as the cornerstone of healthcare and the backbone to support others.
@@ -47,7 +51,7 @@ By utilizing SQL queries, including the `RPAD` function, I aimed to generate a h
 
 These findings will be instrumental in making data-driven decisions that benefit both patient care and the hospital's financial well-being.
 
-![Histogram](image_link_here)
+<img src="images/histogram.jpg?raw=true"/>
 
 With approximately 84% of patients discharged within a week, and an average hospital stay of 4 days, the high turnover rate emphasizes the success of efficiently managing hospital stay durations.
 
@@ -61,7 +65,7 @@ To fulfill this request, I utilized the SQL `GROUP BY` and `HAVING` clauses to o
 
 This allows the Director to efficiently analyze the data and make informed decisions regarding resource allocation and cost management in the hospital.
 
-![Specialties](image_link_here)
+<img src="images/Top 3 Specialties.jpg?raw=true"/>
 
 Among the medical specialties, "Surgery - Cardiovascular/Thoracic," "Surgery - Thoracic," and "Radiologist" stand out as having the highest average number of procedures.
 
@@ -75,7 +79,7 @@ To address this, I employed SQL queries utilizing the `AVERAGE` function, `GROUP
 
 This analysis allowed us to determine if there are any significant differences in the treatment received by patients from different racial backgrounds regarding the utilization of lab procedures.
 
-![Racial Disparities](image_link_here)
+<img src="images/race.jpg?raw=true"/>
 
 The analysis reveals that, on average, there are no significant gaps observed in the number of procedures performed among different racial and ethnic groups.
 
@@ -97,7 +101,7 @@ This approach allows us to analyze how the length of hospital stays varies acros
 
 By examining these patterns, we can uncover valuable insights and determine if there is any association between the number of lab procedures and the length of hospital stays.
 
-![Lab Procedures](image_link_here)
+<img src="images/Hospital Stay vs Lab Procedures.jpg?raw=true"/>
 
 Longer hospital stays and higher lab procedures exhibit a positive correlation, suggesting that patients with extended hospital stays tend to undergo more lab procedures. This insight can help optimize resource allocation and improve patient care planning, but further investigation is needed to understand the underlying factors contributing to this association.
 
@@ -109,7 +113,7 @@ To find these success stories, I utilized a Common Table Expression (CTE) in my 
 
 This approach helped highlight specific instances of successful emergency care, providing valuable insights for the Administrator to celebrate and replicate these positive outcomes.
 
-![Success Stories](image_link_here)
+<img src="images/Success stories .jpg?raw=true"/>
 
 ## Recap of Key Takeaways:
 
