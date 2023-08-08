@@ -1,3 +1,5 @@
+# Data Don't Lie: An In-Depth Analysis of Toronto Raptors' Performance 2021-2022 Season
+
 Being a Canadian basketball fan can be tough, as we only have one home team to cheer for out of the 30 NBA teams. 
 
 Although we used to have two, the Vancouver Grizzlies are no longer with us – I won't delve into the details of how they were lost. 
