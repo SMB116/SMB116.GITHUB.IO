@@ -41,55 +41,79 @@ The Toronto Raptors strategically prioritized frontcourt improvement, three-poin
 
 ## The Playmakers: Recognizing Key Contributors in the Toronto Raptors Squad
 
-Let's begin by understanding who the playmakers were this season. 
+We'll begin by delving into the playmakers of this season.
 
-Identifying the primary playmakers is crucial for optimizing the team's offensive strategies. Playmakers play a significant role in setting up scoring opportunities for their teammates, facilitating ball movement, and creating a cohesive offensive flow.
+Recognizing the key playmakers holds immense importance in fine-tuning the team's offensive strategies. Playmakers assume a vital role in creating scoring chances for their fellow teammates, orchestrating ball movement, and establishing a harmonious offensive rhythm.
 
-I also wanted to see a bubble plot to determine our top scorer and assist leaders, with the size of the bubble representing blocks. This will help us gauge how our players measure up to the rest of the league.
+Therefore, I aimed to construct a bubble plot to identify our foremost scorers and assist leaders, with the bubble size reflecting the assist-to-turnover ratio. This approach enables us to assess how our players stack up against their counterparts across the league.
 
 <img src="images/Bubbleplot.jpg?raw=true"/>
 
-As observed, there are no standout players on the team. However, we have four players who excel above the cluster of players: Fred VanVleet (point guard), Pascal Siakam (power forward), Scottie Barnes (power forward), and Gary Trent Jr (shooting guard). This highlights our strength in the power forward position, as these players show promising potential. Additionally, Chris Boucher (small forward) stands out as their top blocker.
+Indeed, no particular players stand out within the team.
+
+Nevertheless, there are four individuals who surpass the general player cluster: Fred VanVleet (point guard), Pascal Siakam (power forward), Scottie Barnes (power forward), and Gary Trent Jr (shooting guard). 
+
+This accentuates the proficiency of our power forward position, as these players exhibit promising potential.
+
+Furthermore, these players demonstrate low assist-to-turnover ratios, indicative of their adeptness in ball control and making sound decisions on the court.
 
 ## Beyond the Arc: Analyzing Toronto Raptors' 3-Point Shooting Performance
 
-Let's shift our focus to the 3-point shooters. 
+Now, let's redirect our attention to the 3-point shooters.
 
-By identifying the frontcourt position with lower three-point shooting percentages, we can direct our efforts towards player development and potential roster changes to enhance outside scoring. Improving shooting from this position will elevate the team's offensive capabilities and increase overall scoring efficiency.
+Through the identification of the frontcourt position exhibiting lower three-point shooting percentages, we can strategically channel our endeavors towards refining player skills and considering potential roster adjustments to bolster outside scoring. By enhancing shooting proficiency from this position, we can elevate the team's offensive prowess and amplify overall scoring efficiency.
 
-To gain a comprehensive understanding, we'll create a heatmap comparing the league's 3-point percentage. This will enable us to assess how the Raptors perform in each position relative to the league average and pinpoint areas that require improvement.
+To attain a comprehensive grasp, we will generate a heatmap that juxtaposes the league's 3-point percentage.
+
+This visualization will provide us with insights into the Toronto Raptors' performance across different positions in comparison to the league average, allowing us to pinpoint specific areas that necessitate improvement.
 
 <img src="images/Heatmap.jpg?raw=true"/>
 
-As evident from the heat map, the Toronto Raptors' three-point shooting in the Center, Power Forward, and Small Forward positions falls below the league average for each specific position. Addressing this concern is vital for improving the team's offensive efficiency and scoring capabilities. By investing in player development and considering potential roster changes to strengthen outside shooting, the Raptors can elevate their offensive performance and compete at a higher level in the league.
+The heatmap clearly shows that the Toronto Raptors struggle with three-point shooting in the Center, Power Forward, and Small Forward positions, performing below the league average.
+
+To improve offensive efficiency and scoring, investing in player development and potential roster changes for better outside shooting is crucial. This will help the Raptors compete at a higher level in the league.
 
 ## Rebounding Rundown: Assessing Toronto Raptors' Offensive and Defensive Board Dominance
 
-Next, let's delve into the team's rebounding performance. 
+Time to evaluate the team's rebounding performance.
 
-Identifying the frontcourt position that requires improvement in shot-blocking is vital for enhancing both interior defense and rebounding efficiency. Improved shot-blocking not only deters opponents from scoring in the paint but also contributes to gaining possession through defensive rebounds.
+Identifying the frontcourt position that needs improvement in rebounds is crucial for enhancing both defensive and offensive rebounding efficiency. Improved rebounding not only prevents opponents from scoring in the paint but also contributes to gaining possession through rebounds.
 
-To gain a comprehensive perspective, I utilized a stacked bar chart, which breaks down the amount of defensive and offensive rebounds, and highlights the leading rebounders on our team. This visualization allows us to assess how Toronto compares in both aspects and identify key contributors to our rebounding efforts.
+By strengthening our rebounding capabilities, the team can increase their chances of securing both defensive and offensive rebounds, ultimately enhancing overall defensive stability and rebounding efficiency.
+
+To gain a comprehensive perspective, I utilized a stacked bar chart that breaks down the amount of defensive and offensive rebounds, highlighting the leading rebounders on our team.
+
+This visualization allows us to assess how Toronto compares in both defensive and offensive rebounding aspects and identify key contributors to our rebounding efforts.
+
+Let's begin with the positive aspect of offensive rebounds.
 
 <img src="images/OffenseRebounds.jpg?raw=true"/>
 
-Starting with offensive rebounds, Scottie Barnes and Chris Boucher lead the way for the Toronto Raptors. As a team, the Raptors rank second in the league for offensive rebounds, giving them valuable second chance opportunities to capitalize on scoring chances. It is crucial to maintain this level of performance to continue maximizing scoring opportunities and offensive efficiency.
+Scottie Barnes and Chris Boucher take the lead for the Toronto Raptors in this category.
+
+As a collective unit, the Raptors secure the second spot in the league for offensive rebounds, granting them valuable second chances to capitalize on scoring opportunities. Sustaining this level of performance is essential to consistently maximize offensive efficiency and capitalize on scoring chances.
+
+Now, let's shift our focus to defensive rebounds:
 
 <img src="images/DefenseRebounds.jpg?raw=true"/>
 
-When it comes to defensive rebounds, the situation is quite different and concerning. While Pascal Siakam leads the team in defensive rebounds, the Toronto Raptors have the lowest defensive rebounding statistics in the league. This indicates that there is room for improvement in securing defensive stops and preventing opponents from capitalizing on second-chance scoring opportunities due to missed rebounds. Addressing this issue is crucial to strengthen our defensive performance and limit our opponents' scoring opportunities.
+With defensive rebounds, a different and concerning situation arises. Despite Pascal Siakam's leadership in this area, the Toronto Raptors exhibit the league's lowest defensive rebounding statistics. 
+
+This highlights the need for improvement in securing defensive stops and preventing opponents from seizing second-chance scoring opportunities due to missed rebounds. Addressing this issue is of utmost importance to enhance our defensive performance and curtail our opponents' scoring opportunities.
 
 ## Blocking Breakdown: Analyzing Toronto Raptors' Interior Defense and Shot-Blocking Dominance
 
-Lastly, let's turn our attention to shot-blocking. 
+Lastly, our focus shifts to shot-blocking. Recognizing the frontcourt position that demands enhancement in shot-blocking is essential for fortifying our interior defense. Enhanced shot-blocking serves as an effective deterrent against opponents scoring in the paint, thereby contributing to the overall stability of our defense.
 
-Identifying the frontcourt position that requires improvement in shot-blocking is vital for enhancing interior defense. Improved shot-blocking effectively discourages opponents from scoring in the paint, contributing to overall defensive stability.
+For a visual representation, I employed treemaps, segmenting blocks by position. By assigning positions to the "Color" tab and adjusting size, we gain insights into the shot-blocking performance of each position.
 
-To visualize this, I used treemaps, breaking up the blocks by position. By dragging positions to the "Color" tab and utilizing size, we can gain insights into the shot-blocking performance of each position. This visualization allows us to identify the specific positions that need improvement in shot-blocking to bolster our defensive capabilities and deter opponents from scoring inside the paint.
+This visualization enables us to pinpoint the specific positions that necessitate improved shot-blocking, ultimately reinforcing our defensive capabilities and discouraging opponents from scoring within the paint.
 
 <img src="images/Blocks.jpg?raw=true"/>
 
-Currently, the team's blocks are being primarily contributed by the small forwards and power forwards, which is noteworthy. However, the fact that our centers rank third in blocks raises some concerns, as it indicates a potential vulnerability in protecting the paint.
+At present, the team's block contributions are predominantly coming from the small forwards and power forwards, a significant observation. 
+
+Nevertheless, the fact that our centers are ranked third in blocks gives rise to concerns, highlighting a potential vulnerability in safeguarding the paint.
 
 **Recap of Key Insights:**
 - Small Forward and Power Forward positions show potential for improvement in 3-point shooting. Enhancing their shooting can enhance the team's offensive capabilities.
