@@ -45,7 +45,7 @@ Identifying the primary playmakers is crucial for optimizing the team's offensiv
 
 I also wanted to see a bubble plot to determine our top scorer and assist leaders, with the size of the bubble representing blocks. This will help us gauge how our players measure up to the rest of the league.
 
-![Bubble Plot](link_to_embedded_image)
+<img src="images/Bubbleplot.jpg?raw=true"/>
 
 As observed, there are no standout players on the team. However, we have four players who excel above the cluster of players: Fred VanVleet (point guard), Pascal Siakam (power forward), Scottie Barnes (power forward), and Gary Trent Jr (shooting guard). This highlights our strength in the power forward position, as these players show promising potential. Additionally, Chris Boucher (small forward) stands out as their top blocker.
 
@@ -57,7 +57,7 @@ By identifying the frontcourt position with lower three-point shooting percentag
 
 To gain a comprehensive understanding, we'll create a heatmap comparing the league's 3-point percentage. This will enable us to assess how the Raptors perform in each position relative to the league average and pinpoint areas that require improvement.
 
-![Heatmap](link_to_embedded_image)
+<img src="images/Heatmap.jpg?raw=true"/>
 
 As evident from the heat map, the Toronto Raptors' three-point shooting in the Center, Power Forward, and Small Forward positions falls below the league average for each specific position. Addressing this concern is vital for improving the team's offensive efficiency and scoring capabilities. By investing in player development and considering potential roster changes to strengthen outside shooting, the Raptors can elevate their offensive performance and compete at a higher level in the league.
 
@@ -69,9 +69,11 @@ Identifying the frontcourt position that requires improvement in shot-blocking i
 
 To gain a comprehensive perspective, I utilized a stacked bar chart, which breaks down the amount of defensive and offensive rebounds, and highlights the leading rebounders on our team. This visualization allows us to assess how Toronto compares in both aspects and identify key contributors to our rebounding efforts.
 
-![Bar Chart](link_to_embedded_image)
+<img src="images/OffenseRebounds.jpg?raw=true"/>
 
 Starting with offensive rebounds, Scottie Barnes and Chris Boucher lead the way for the Toronto Raptors. As a team, the Raptors rank second in the league for offensive rebounds, giving them valuable second chance opportunities to capitalize on scoring chances. It is crucial to maintain this level of performance to continue maximizing scoring opportunities and offensive efficiency.
+
+<img src="images/DefenseRebounds.jpg?raw=true"/>
 
 When it comes to defensive rebounds, the situation is quite different and concerning. While Pascal Siakam leads the team in defensive rebounds, the Toronto Raptors have the lowest defensive rebounding statistics in the league. This indicates that there is room for improvement in securing defensive stops and preventing opponents from capitalizing on second-chance scoring opportunities due to missed rebounds. Addressing this issue is crucial to strengthen our defensive performance and limit our opponents' scoring opportunities.
 
@@ -83,7 +85,7 @@ Identifying the frontcourt position that requires improvement in shot-blocking i
 
 To visualize this, I used treemaps, breaking up the blocks by position. By dragging positions to the "Color" tab and utilizing size, we can gain insights into the shot-blocking performance of each position. This visualization allows us to identify the specific positions that need improvement in shot-blocking to bolster our defensive capabilities and deter opponents from scoring inside the paint.
 
-![Treemaps](link_to_embedded_image)
+<img src="images/Blocks.jpg?raw=true"/>
 
 Currently, the team's blocks are being primarily contributed by the small forwards and power forwards, which is noteworthy. However, the fact that our centers rank third in blocks raises some concerns, as it indicates a potential vulnerability in protecting the paint.
 
