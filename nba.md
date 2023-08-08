@@ -16,7 +16,7 @@ Unfortunately, every good thing must come to an end, and the 2021-2022 season wa
 
 As a data analyst working for the team at the end of the season, I delved into the statistics to identify areas for improvement. It's well-known that "ball don't lie," so analyzing the data is the best way to understand where the team can make progress.
 
-Utilizing data from the provided dataset from the website Basketball Reference (You can access the dataset here), I am able to obtain accurate basketball statistics. However, due to the inclusion of players who were traded multiple times, data cleaning is required to ensure the accuracy and consistency of the analysis.
+Utilizing data from the provided dataset from the website Basketball Reference (You can access the dataset [here](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)), I am able to obtain accurate basketball statistics. However, due to the inclusion of players who were traded multiple times, data cleaning is required to ensure the accuracy and consistency of the analysis.
 
 ## Toronto Raptors' Strategic Initiatives for the 2021-2022 Offseason
 **Areas of Focus:**
