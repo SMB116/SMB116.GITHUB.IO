@@ -36,7 +36,13 @@ This SQL project is a personal exploration of Dominica's relationship with the W
 During my virtual internship at PwC Switzerland, I embraced an exciting challenge from telecom company PayNow. They needed a dashboard to monitor agents' performance and gain insights into customer behavior. The dashboard focused on crucial subtopics, including answered/unanswered calls, calls per hour/month, speed to answer calls, resolved/unsolved call numbers, topics discussed in calls, and average satisfaction rating. I meticulously processed and cleaned their data with Excel, DAX and Power Query, ensuring accuracy for dashboard development. Leveraging Power BI, I crafted a comprehensive dashboard revealing long-term trends, enabling data-driven decisions to enhance efficiency and profitability. This project honed my data processing and visualization skills, delivering valuable insights to a real-world client. 
 
 ---
+#### [I'm sorry to tell you, but here's the data: Insights into Hospital Practices](/hospital)
+<img src="images/HealthcareCover.png?raw=true"/>
 
+---
+Embarking on a data-driven expedition powered by MySQL, I traversed a decade's worth of healthcare records from various US hospitals. As a healthcare data analyst, my goal was to unveil hidden patterns that could optimize hospital operations and elevate patient care. By crafting intricate SQL queries, I unraveled the tale of hospital stay distributions, unraveled the specialties excelling in procedures, probed for potential disparities, and deciphered the intricate dance between lab procedures and hospital stays. Guided by the melody of SQL, this endeavor transformed raw data into actionable insights, fostering a more efficient and equitable healthcare landscape.
+
+---
 #### [Puppy Adult Weight Calculator](/pupcal)
 <img src="images/AdultPupCal.gif?raw=true"/>
 
