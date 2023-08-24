@@ -87,9 +87,44 @@ To check if this is common or unusual, I looked at how iron and silica levels re
 
 The correlation coefficient of -0.8005 between the concentrations of iron and silica reveals a notable pattern: as the iron concentration increases, the silica concentration tends to decrease, and vice versa. This negative correlation aligns with our expectations, as higher iron content typically corresponds to lower silica content in the ore concentrate. This relationship is integral to the mineral processing process, where the extraction and refinement of iron ore often involve the reduction of impurities like silica. Therefore, observing this inverse correlation reinforces the fundamental understanding of how these variables interact and impact the quality of the final iron product. 
 
+# Comparing the Iron Concentration Per Month of June and July
+
+My boss was interested in comparing the average iron concentration for the months of June and July, focusing on the distribution across different days of the week. To address this, I analyzed the dataset and extracted the iron concentration data for these two months. By calculating the average iron concentration for each day of the week, I was able to provide a clearer understanding of how iron concentration varies throughout the week. This comparison helps highlight any potential trends or patterns in iron concentration between the two months and sheds light on whether any significant differences exist in iron processing during these periods.
+
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/a0be9a18-7ceb-449b-81a6-e53b7f6b40ff)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/ced0e1a5-ba97-493f-b29d-99f5b930f020)
 
 
+Upon analyzing the data, a notable observation emerges regarding the average iron concentration for the months of June and July, specifically on Tuesdays. In the month of June, the average iron concentration on Tuesdays was 64.45, which was the lowest among all the days of the week for that month. This suggests a potential fluctuation or variation in iron concentration on Tuesdays in June. On the other hand, in July, the average iron concentration on Tuesdays was 64.35, also the lowest among the days of the week for that month. Interestingly, the fluctuation in iron concentration on Tuesdays seems to persist in both months, although the overall range of fluctuation appeared to be more pronounced in June compared to July. This indicates that the iron concentration experienced more variability on Tuesdays in June, whereas the fluctuations were relatively smaller on Tuesdays in July. The rest of the days also show variations, with slight differences in average iron concentration between the two months.
 
+# Any Monthly patterns in Iron Concentration?
+
+In response to my boss's request for deeper insights into the iron concentration levels, a comprehensive analysis was conducted to explore potential trends across different months. The objective was to identify any patterns or noticeable changes in the average iron concentration.
+
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/bcceb302-338f-4961-92ed-92d672a6c608)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/ef569d44-adca-4993-a29d-d0f9e8fe97ca)
+
+Upon analyzing the data regarding iron concentration across different months, it becomes evident that there is no discernible consistent pattern in the levels. Instead, the iron concentration levels exhibit fluctuations that do not follow a specific trend. This observation suggests that various factors, including operational conditions and external influences, might contribute to the variability in iron concentration. Consequently, it's challenging to identify a clear trend or pattern in the data, and the levels appear to fluctuate without a consistent direction or correlation with the passage of time. This investigation underlines the complexity of the factors influencing iron concentration, as the absence of an identifiable pattern suggests that various dynamic variables contribute to the observed fluctuations. While the absence of distinct trends challenges the straightforward identification of correlations, this analysis provides valuable insights into the intricate nature of iron concentration levels and the potential factors influencing them.
+
+## Key Findings Recap:
+
+1. **Correlation Complexity:** The dataset's correlation matrix revealed moderate relationships between key variables, such as "% Iron Concentrate," "% Silica Concentrate," "Ore Pulp pH," and "Flotation Column 05 Level." While not strongly linear, these correlations provided a foundation for further investigation into potential associations.
+
+2. **Concentration Dynamics:** Fluctuations in iron and silica concentrations throughout the day suggested challenges in the separation process. Identifying the causes of these fluctuations, whether from operational decisions or equipment performance, is pivotal for maintaining product quality and plant efficiency.
+
+3. **Iron-Silica Relationship:** The inverse correlation between iron and silica concentrations, with a coefficient of -0.8005, aligned with expectations. This understanding reinforced the fundamental connection between iron's rise and silica's fall, essential for effective mineral processing.
+
+4. **Monthly Insights (June and July):** A comparative analysis of iron concentrations on Tuesdays in June and July revealed consistent dips. While fluctuations persisted in both months, June showcased more pronounced variations, hinting at operational variations.
+
+5. **Month-to-Month Variation:** Iron concentration across different months exhibited fluctuations without a clear pattern. This complexity underscored the role of multiple dynamic factors influencing iron concentration levels.
+
+## Recommendations 
+
+1. **Operational Optimization:** Investigate the reasons behind fluctuations in iron and silica concentrations throughout the day. Analyze operational decisions, equipment performance, and process conditions during these periods to improve process efficiency and product quality.
+
+2. **Root Cause Analysis:** Address the variations in iron concentration observed on Tuesdays in June and July. Collaborate with experts to identify whether these variations stem from external factors, equipment issues, or other influences. This could lead to stabilizing iron concentration levels and enhancing process consistency.
+
+3. **Collaboration and Knowledge Sharing:** Engage with domain experts, metallurgists, and engineers to gain deeper insights into the mining and mineral processing processes. Their expertise can provide valuable context and guide the analysis toward more actionable insights, ultimately contributing to process optimization.
 
 
 
