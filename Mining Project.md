@@ -1,5 +1,4 @@
-# Mining Project 
-### By Shekela Mitchell Best
+# Metals in Focus: Analyzing Iron Concentration Patterns in Mining 
 
 ## Shaping Our World: The Iron Story You Never Knew
 
@@ -127,5 +126,5 @@ Upon analyzing the data regarding iron concentration across different months, **
 3. **Collaboration and Knowledge Sharing:** Engage with domain experts, metallurgists, and engineers to gain deeper insights into the mining and mineral processing processes. Their expertise can provide valuable context and guide the analysis toward more actionable insights, ultimately contributing to process optimization.
 
 
-
+You can view my code [here](link_to_your_pdf_file.pdf).
 
