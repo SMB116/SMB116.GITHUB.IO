@@ -50,6 +50,17 @@ Embarking on a data-driven expedition powered by MySQL, I traversed a decade's w
 As a proud new owner of a beagle puppy, I took on a Python project to ensure his healthy growth. With concerns about his weight, I developed a calculator to predict his adult weight based on his current weight and age. Using my programming skills, I created a command-line program that employed a fundamental formula for this purpose. This project not only helped me monitor my puppy's growth but also allowed me to apply programming to a real-life situation. I take pride in having built a practical tool that nurtures my beloved beagle's well-being and helps me make informed decisions about his health and development.
 
 ---
+
+### More projects
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
 <div style="text-align: center; font-size: 16px;">
   <p>💬 Contact Me 📩</p>
   <p>Looking to collaborate on an exciting project or discuss data-related opportunities? I'm all ears! 🎧 As a data analyst with a passion for transforming complex information into actionable insights, I thrive on turning raw data into compelling stories. 📊</p>
