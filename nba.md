@@ -124,5 +124,9 @@ Nevertheless, the fact that our centers are ranked third in blocks gives rise to
 
 Don't forget to [check out my interactive Tableau story](https://public.tableau.com/app/profile/shekela/viz/NBA_16912797295950/Story1?publish=yes)!
 
+## Thanks for reading!
+
+I'm always on the lookout for data analyst opportunities. Know of any? Don't hesitate to reach out at [smitchellbest@gmail.com](mailto:smitchellbest@gmail.com). Make sure to explore more of my portfolio. Just click the button below.
+
 <a href="javascript:history.back()" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go Back</a>
 
