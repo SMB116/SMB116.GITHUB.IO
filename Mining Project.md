@@ -126,5 +126,6 @@ Upon analyzing the data regarding iron concentration across different months, **
 3. **Collaboration and Knowledge Sharing:** Engage with domain experts, metallurgists, and engineers to gain deeper insights into the mining and mineral processing processes. Their expertise can provide valuable context and guide the analysis toward more actionable insights, ultimately contributing to process optimization.
 
 
-You can view my code [here](link_to_your_pdf_file.pdf).
+You can view my code [here](https://github.com/SMB116/SMB116.GITHUB.IO/raw/main/files/Metals%20in%20Focus.pdf).
+
 
