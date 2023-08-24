@@ -124,3 +124,5 @@ Nevertheless, the fact that our centers are ranked third in blocks gives rise to
 
 Don't forget to [check out my interactive Tableau story](https://public.tableau.com/app/profile/shekela/viz/NBA_16912797295950/Story1?publish=yes)!
 
+<a href="javascript:history.back()" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go Back</a>
+
