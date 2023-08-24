@@ -113,6 +113,10 @@ As a marketing team, it is evident that targeting higher-income customers can be
 
 With these Dash-tastic recommendations, DoorDash is poised to satisfy cravings, capture hearts, and dash ahead in the food delivery industry.
 
+## Thanks for reading!
+
+I'm always on the lookout for data analyst opportunities. Know of any? Don't hesitate to reach out at [smitchellbest@gmail.com](mailto:smitchellbest@gmail.com). Make sure to explore more of my portfolio. Just click the button below.
+
 <a href="javascript:history.back()" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go Back</a>
 
 
