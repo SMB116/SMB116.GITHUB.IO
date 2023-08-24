@@ -79,3 +79,5 @@ However, it faced challenges after Hurricane Maria struck in 2017, prompting adj
 ## Recap of Findings:
 
 Dominica has received a substantial amount of $17 billion USD as funds. Currently, they owe $645 million USD to the International Development Association (IDA), but they have already repaid $1.27 billion to the World Bank. The largest outstanding debt of $30 million USD is related to COVID-19 response and recovery projects. Interestingly, Dominica's top two projects are focused on addressing the impact of COVID-19, while the third project deals with natural hazards and climate change, like Hurricane Maria, which struck the country in 2017.
+
+<a href="javascript:history.back()" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go Back</a>
