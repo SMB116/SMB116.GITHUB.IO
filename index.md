@@ -55,10 +55,6 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 
 - [Metals in Focus: Analyzing Iron Concentration Patterns in Mining (Python Project)](/Mining.md)
 - [I'm sorry to tell you, but here's the data: Insights into Hospital Practices (MySQL Project)](/hospital.md)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
