@@ -125,3 +125,5 @@ This approach helped highlight specific instances of successful emergency care, 
 
 4. A positive correlation exists between longer hospital stays and higher lab procedures, indicating a connection between both factors.
 
+<a href="javascript:history.back()" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px;">Go Back</a>
+
