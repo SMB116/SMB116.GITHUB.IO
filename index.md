@@ -52,6 +52,7 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 ---
 
 ### More projects
+- [Grade 8 English Class Excel Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7058200477091409920/)
 - [Customer Retention Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9])
 - [Sims Project: Rating and Evolution (Tableau)] (https://public.tableau.com/views/SimsProject/Sim4RatingEvolutionandTopPicks?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Metals in Focus: Analyzing Iron Concentration Patterns in Mining (Python Project)](/Mining.md)
