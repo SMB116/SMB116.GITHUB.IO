@@ -18,7 +18,7 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 ---
 "A good education is the foundation for a better future." - U.S. Senator Elizabeth Warren of Massachusetts
 
-In this Tableau project, I bring this quote to life by diving into the Massachusetts education system. Through captivating data analysis and visualization, I uncover insights on top-performing elementary math schools, struggling high schools, and the impact of class size on college attendance. It's a journey that reveals both impressive achievements and pressing concerns, highlighting the transformative power of education.
+In this Tableau project, I bring this quote to life by diving into the Massachusetts education system. Through captivating data analysis and visualization, I uncover insights on top-performing elementary math schools, struggling high schools, and the impact of class size on college attendance. The journey begins with sourcing data from the Massachusetts Department of Education's official website for 2017, utilizing Excel for cleaning, Tableau for visualization, and PowerPoint to spotlight the transformative power of education.
 
 ---
 
@@ -26,7 +26,7 @@ In this Tableau project, I bring this quote to life by diving into the Massachus
 <img src="images/Dominica's Financial Journey Funds, Debts, and Resilience Projects.png?raw=true"/>
 
 ---
-This SQL project is a personal exploration of Dominica's relationship with the World Bank using live data. With a strong desire to visit the island, I feel a special connection knowing that my dad's mother is originally from Dominica. Researching Dominica has allowed me to delve deeper into my roots, making the connection to my dad's native heritage even more profound. Throughout the research, I explored the number of transactions, the total amount of money received, the funds repaid, the current debt owed, and identified the most expensive projects, uncovering their focus and significance. Despite not having the chance to visit together, I dedicate this project to him, holding his memory close to my heart. 
+This SQL project is a personal exploration of Dominica's relationship with the World Bank using live data. With a strong desire to visit the island, I feel a special connection knowing that my dad's mother is originally from Dominica. The data, sourced directly from the World Bank website and stored in the cloud, underwent SQL queries using CSVFiddle.io. This research allowed me to delve deeper into my roots, making the connection to my dad's native heritage even more profound. Throughout the project, I delved into the number of transactions, the total amount of money received, the funds repaid, the current debt owed, and identified the most expensive projects, uncovering their focus and significance. Using PowerPoint, I highlighted the key findings and dedicated this project to my father, cherishing his memory in this endeavor.
 
 ---
 #### [Call Center Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
