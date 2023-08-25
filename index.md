@@ -40,7 +40,7 @@ During my virtual internship at PwC Switzerland, I embraced an exciting challeng
 <img src="images/TORONTO.png?raw=true"/>
 
 ---
-Just like in basketball, where data don't lie, this project takes you behind the scenes of the Toronto Raptors' thrilling journey throughout the 2021-2022 NBA season. With Excel as my ally, I meticulously refined and prepared the data for unwavering accuracy. The enchanting touch of Tableau then transformed these numbers into visual narratives that captivate and inform. Unearth the hidden strategies of playmaking brilliance, harness the potential of shooting statistics, explore the intricacies of rebounding dynamics, and unlock the secrets of shot-blocking prowess. Beyond basketball, this is a journey into the realm of data-driven insights that can elevate how we understand and improve performance.
+Just like in basketball, where data don't lie, this project takes you behind the scenes of the Toronto Raptors' thrilling journey throughout the 2021-2022 NBA season. With Excel as my ally, I meticulously refined and prepared the data for unwavering accuracy, securely storing it in the cloud. The enchanting touch of Tableau then transformed these numbers into visual narratives that captivate and inform. Unearth the hidden strategies of playmaking brilliance, harness the potential of shooting statistics, explore the intricacies of rebounding dynamics, and unlock the secrets of shot-blocking prowess. Beyond basketball, this is a journey into the realm of data-driven insights that can elevate how we understand and improve performance. Highlighting these findings, I used PowerPoint to provide a clear and compelling perspective on the team's journey.
 
 ---
 #### [Puppy Adult Weight Calculator](/pupcal)
