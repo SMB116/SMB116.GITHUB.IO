@@ -52,9 +52,10 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 ---
 
 ### More projects
-
+- [Customer Retention Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMDA4ZGY2MGItZmFhNy00ZTYxLThjMzQtZDNmYjFjZGFiNDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9])
 - [Metals in Focus: Analyzing Iron Concentration Patterns in Mining (Python Project)](/Mining.md)
 - [I'm sorry to tell you, but here's the data: Insights into Hospital Practices (MySQL Project)](/hospital.md)
+
 
 ---
 
