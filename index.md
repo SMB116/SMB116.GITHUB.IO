@@ -57,11 +57,11 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 - [Customer Retention Power BI Dashboard](https://shorturl.at/flGLP)
 - [Sims Project: Rating and Evolution (Tableau)](https://public.tableau.com/views/SimsProject/Sim4RatingEvolutionandTopPicks?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Prosper Loan (Python Project)](/files/Python%20Project%20.ipynb)
-- [Chipotle sales using Python](https://www.linkedin.com/feed/update/urn:li:activity:7070150081609379840/)
+- [Chipotle sales using Python](files/Chipotle%20Sales.pdf)
 - [Metals in Focus: Analyzing Iron Concentration Patterns in Mining (Python Project)](/Mining.md)
 - [I'm sorry to tell you, but here's the data: Insights into Hospital Practices (MySQL Project)](/hospital.md)
 - [Danny's Diner (SQL Case study)](https://www.linkedin.com/feed/update/urn:li:activity:7069871897307406336/)
-- [LeWagon Workshop: Predicting stocks with Python](file:///C:/Users/trini/Downloads/Clone%20of%20Stock%20Predictions%20with%20Prophet.html\)
+- [LeWagon Workshop: Predicting stocks with Python](files/Stock%20Predictions%20with%20Prophet.pdf)
 
 ---
 
