@@ -18,7 +18,7 @@ With this data, my mission is clear: to uncover the connection between age and a
 
 Our initial exploration of employee age distribution reveals a fascinating pattern. 
 
-![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/42f0a322-c9c2-4ecd-a9e7-40eb435e1f64)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/e621eb45-29f4-41e3-b41e-d76260f47945)
 ![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/8e5a602e-f891-4332-876c-106f05beecb5)
 
 The histogram of age data shows a positive skew, indicating that a significant portion of our workforce consists of younger individuals. The majority of our employees, with a peak frequency occurring at the lower ages, suggest that our organization has a predominantly younger workforce, with an average age of approxiately 37.
@@ -26,12 +26,19 @@ The histogram of age data shows a positive skew, indicating that a significant p
 **Correlations**
 Digging deeper, we explored correlations between various factors. 
 
-![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/51b393ee-9642-47d0-adcd-c93028ce3988)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/f541e4dd-e312-440a-aee9-e0983eaf7198)
 
 Notably, we discovered a strong correlation between age and total working years, suggesting that as employees grow older, their total years of service tend to increase. Furthermore, age and total monthly income also exhibit a positive correlation, albeit with some exceptions. This implies that, in general, older employees tend to have higher monthly incomes.
 
-**Age and Attrition:**
-The crux of our investigation centers around the relationship between age and attrition. Initial observations from box plots hint at a difference in attrition rates between age groups. To rigorously test this, we conducted a t-test, and the results were striking. The extremely low p-value (e.g., 1.38e-08) provided robust statistical evidence against the null hypothesis. We confidently reject the null hypothesis and accept the alternative hypothesis that age and attrition are indeed interconnected.
+**Age and Attrition**
+The crux of our investigation centers around the relationship between age and attrition. Initial observations from box plots hint at a difference in attrition rates between age groups.
+
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/e1038e86-bb55-4aa6-813d-71b195fdfeba)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/ca5df7b9-2438-4aa6-b295-da734a7c1cd3)
+![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/4b846326-9db6-464e-ba14-ff99bedb173e)
+
+
+To rigorously test this, we conducted a t-test, and the results were striking. The extremely low p-value (e.g., 1.38e-08) provided robust statistical evidence against the null hypothesis. We confidently reject the null hypothesis and accept the alternative hypothesis that age and attrition are indeed interconnected.
 
 
 **Chi-Square Test:**
