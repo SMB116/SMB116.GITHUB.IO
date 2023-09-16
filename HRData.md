@@ -1,18 +1,18 @@
-***What's Age Gotta Do with It? More Than We Know..***
+# What's Age Gotta Do with It? In HR Data, it's More Than We Know..
 
 The old saying, "age is nothing but a number," can hold a different meaning in the workplace. As an intern in IBM's Data Analyst team, I found myself questioning the significance of age within our professional realm. Recent waves of employees departing from our organization have brought age into the spotlight, making me wonder: Could it be more than just a number when it comes to attrition? Using the statistical power of R, I aim to determine whether age has a significant statistical impact on attrition within our organization.
 
-**The Dataset**
+### The Dataset
 
 The dataset at hand, crafted by IBM's data experts, provides valuable insights. It consists of 1470 rows, each representing an employee, and boasts 35 columns filled with information. 
 
 At the heart of our exploration is the "Attrition" column. It tells us whether an employee left or stayed. While we're not entirely sure if "Attrition" includes voluntary departures, layoffs, or both, for our analysis, we'll focus on voluntary exits.
 
-**Our Mission**
+### Our Mission
 
 With this data, my mission is clear: to uncover the connection between age and attrition within our organization. While we've heard that younger employees tend to leave more, we want to dig deeper. We're looking for the details that can shape our HR strategy, ensuring we keep our team engaged and strong.
 
-**Key Insights:**
+### Key Insights:
 
 1. Age and Experience: **Employee age strongly correlates (0.68) with total working years**, indicating longer service as employees age.
 2. Income Connection: Age correlates positively with monthly income, suggesting higher incomes for older employees.
@@ -21,7 +21,7 @@ With this data, my mission is clear: to uncover the connection between age and a
 5. Predictive Power: **Age alone explains 25% of income variance**. Combining age and total working years raises the R-squared to 0.5988, highlighting their role in income prediction.
 6. Attrition Patterns: Attrition varies among age groups. Notably, only the 26-35 and 56-60 groups retain a significant portion of employees. Surprisingly, the **36-45 to 45-55 groups, with seasoned employees, show unexpected attrition trends**.
 
-**Age Distribution**
+### Age Distribution
 
 Our initial exploration of employee age distribution reveals a fascinating pattern. 
 
@@ -30,14 +30,14 @@ Our initial exploration of employee age distribution reveals a fascinating patte
 
 The histogram of age data shows a positive skew, indicating that a significant portion of our workforce consists of younger individuals. The majority of our employees, with a peak frequency occurring at the lower ages, suggest that our organization has a predominantly younger workforce, with an average age of approxiately 37.
 
-**Correlations**
+### Correlations
 Digging deeper, we explored correlations between various factors. 
 
 ![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/f541e4dd-e312-440a-aee9-e0983eaf7198)
 
 Notably, we discovered a strong correlation between age and total working years, suggesting that as employees grow older, their total years of service tend to increase. Furthermore, age and total monthly income also exhibit a positive correlation, albeit with some exceptions. This implies that, in general, older employees tend to have higher monthly incomes.
 
-**Age and Attrition**
+### Age and Attrition
 
 The crux of our investigation centers around the relationship between age and attrition. Initial observations from box plots hint at a difference in attrition rates between age groups.
 
@@ -48,7 +48,7 @@ The crux of our investigation centers around the relationship between age and at
 To rigorously test this, we conducted a t-test, and the results were striking. The extremely low p-value (e.g., 1.38e-08) provided robust statistical evidence against the null hypothesis. We confidently reject the null hypothesis and accept the alternative hypothesis that age and attrition are indeed interconnected.
 
 
-**Chi-Square Test**
+### Chi-Square Test
 
 To strengthen the credibility of our findings, we took a closer look by categorizing employees into distinct age groups and subjecting them to a rigorous Chi-Square test. 
 
@@ -57,7 +57,7 @@ To strengthen the credibility of our findings, we took a closer look by categori
 
 The results were nothing short of astonishing, revealing an incredibly low p-value, approximately 4.341e-11. This outcome underscores a substantial and non-random connection between age groups and attrition within our organization. In practical terms, it indicates that attrition rates exhibit significant variations across different age groups in our dataset, firmly establishing age as a pivotal factor when deciphering the intricacies of attrition patterns.
 
-**Visualization Context:**
+### Visualization Context:
 To provide additional clarity, let's delve into the visualization:
 
 ![image](https://github.com/SMB116/SMB116.GITHUB.IO/assets/124625985/184b87ca-cde3-49d0-b70f-b9fe011859de)
@@ -77,7 +77,7 @@ It's conceivable that the 26-35 age group may find themselves in a relatively co
 
 However, it's the data concerning the 36-45 to 45-55 age groups that raises eyebrows and concerns. These cohorts represent some of our more seasoned employees, individuals with valuable experience and expertise. The fact that they are opting to leave warrants a closer look and raises important questions about what might be driving this unexpected trend.
 
-**Income-Age Relationship: A Linear Regression Exploration**
+### Income-Age Relationship: A Linear Regression Exploration
 
 As we delve deeper into the relationship between age and various aspects of employment, we turn our attention to predictive modeling. Specifically, we've created a linear regression model that predicts MonthlyIncome based on age. The power of R makes this task remarkably straightforward. We utilize the 'lm' function, short for linear model, to build our predictive model. 
 
@@ -96,7 +96,7 @@ In our quest to understand the dynamics of income within our workforce, we've ve
 
 The results are striking: the model's R-squared value has surged to 0.5988, signifying a substantial improvement in its ability to make clear the variations in 'MonthlyIncome.' Equally noteworthy is the remarkably low p-value of 2.2e-16, reaffirming the model's resounding statistical significance. This expansion of our analysis underscores the intricate interplay between age, total working years, and monthly income within our organization, shedding light on factors that contribute significantly to earnings
 
-**Key findings:** 
+## Key findings:
 
 1. Age and Total Working Years Correlation: A robust **positive correlation (0.68) exists between employee age and total working years, indicating that as employees age, their years of service tend to increase**.
 2. Age and Monthly Income: Age demonstrates a positive correlation with total monthly income, implying that older employees generally have higher incomes.
@@ -105,7 +105,7 @@ The results are striking: the model's R-squared value has surged to 0.5988, sign
 5. Predictive Modeling: **Age alone can explain approximately 25% of the variance in MonthlyIncome**, underscoring its relevance as an income predictor. When combined with total working years, the R-squared value rises to 0.5988, emphasizing the intricate interplay between age, total working years, and income.
 6. Attrition Patterns: Attrition rates diverge across age groups. Only the 26-35 and 56-60 age cohorts display a substantial proportion of retained employees. Surprisingly, **the 36-45 to 45-55 age groups, comprising more experienced employees, exhibit unexpected attrition patterns warranting further investigation**. 
 
-**Conclusion**
+# Conclusion
 
 These findings have profound implications for our HR strategy. It's clear that age plays a pivotal role in attrition within our organization. While younger employees may be more prone to attrition, this insight allows us to take proactive measures to mitigate it. By crafting targeted HR policies and initiatives, we can foster a more engaged and loyal workforce across all age groups, ultimately enhancing our organizational stability and success.
 
