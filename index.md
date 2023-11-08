@@ -12,6 +12,18 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 
 ---
 
+### [Community Contact User-Friendly Data Automation Form]
+
+My very first job was with Community Contact, where I started my career as a young writer, crafting articles for the community. It's incredible how life comes full circle.
+
+Now, I've had the incredible opportunity to collaborate with them again, this time as a data analyst, and assist in their transformation to adapt to the modern era.
+
+After discussing their data needs with the new CEO and COO of Community Contact Newspaper, I offered to help build this form, taking into consideration their specific requirements and the information they would like to record. I built this form using Microsoft Office, primarily utilizing VBA, macros, Excel formulas, and conditional formatting. It's a simple and user-friendly form that enables them to efficiently record and generate data, something they couldn't do effectively before.
+
+This user-friendly form is just the beginning of a positive direction for them to make data-driven decisions.
+
+---
+
 #### [Tableau Massachusetts Education Dashboard](/Education)
 <img src="images/Building a Solid Foundation Massachusetts Education.png?raw=true"/>
 
