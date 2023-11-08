@@ -12,7 +12,7 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 
 ---
 
-### [Community Contact User-Friendly Data Automation Form]
+### Community Contact User-Friendly Data Automation Form
 
 <img src="images//8a5b2623-445c-4f50-a3ae-195f1c2e71be.gif?raw=true"/>
 
