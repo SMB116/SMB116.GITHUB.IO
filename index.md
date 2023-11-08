@@ -12,7 +12,9 @@ In the fast-paced world of food delivery services, DoorDash has emerged as a lea
 
 ---
 
-### [Community Contact User-Friendly Data Automation Form](images/IMG_8765.MOV)
+### [Community Contact User-Friendly Data Automation Form]
+
+<img src="images//8a5b2623-445c-4f50-a3ae-195f1c2e71be.gif?raw=true"/>
 
 My very first job was with Community Contact, where I started my career as a young writer, crafting articles for the community. It's incredible how life comes full circle.
 
