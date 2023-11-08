@@ -67,6 +67,7 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 
 ### More projects
 - [HR Dashboard Analysis for a Four-Year Company](https://github.com/SMB116/HR-Dashboard)
+- [Office Supplies Store Python Report](/files/Office%20Supplies%20Store.ipynb)
 - [What's Age Gotta Do with It? In HR Data, it's More Than We Know..](HRData.md)
 - [Grade 8 English Class Excel Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7058200477091409920/)
 - [Customer Retention Power BI Dashboard](https://shorturl.at/flGLP)
