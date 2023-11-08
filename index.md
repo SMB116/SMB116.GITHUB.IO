@@ -73,6 +73,8 @@ As a proud new owner of a beagle puppy, I took on a Python project to ensure his
 - [Sims Project: Rating and Evolution (Tableau)](https://public.tableau.com/views/SimsProject/Sim4RatingEvolutionandTopPicks?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Prosper Loan (Python Project)](/files/Python%20Project%20.ipynb)
 - [Chipotle sales using Python](files/Chipotle%20Sales.pdf)
+- [AirBnb dataframe listing using pandas](https://airbnbamsterdampython-bbebcda34uftuzhfrpaoou.streamlit.app/)
+- [AirBnB data and visualization using NumPy](https://airbnbamsterdampython-bbebcda34uftuzhfrpaoou.streamlit.app/)
 - [Metals in Focus: Analyzing Iron Concentration Patterns in Mining (Python Project)](/Mining.md)
 - [I'm sorry to tell you, but here's the data: Insights into Hospital Practices (MySQL Project)](/hospital.md)
 - [Danny's Diner (SQL Case study)](https://www.linkedin.com/feed/update/urn:li:activity:7069871897307406336/)
